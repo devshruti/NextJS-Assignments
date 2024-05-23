@@ -1,0 +1,10 @@
+
+.heading{
+    font-size: 55px;
+    font-weight: 900;
+    font-style: italic;
+    border: 2px solid black;
+    padding: 2%;
+    background-color: rgb(51, 51, 51);
+    color: aliceblue;
+}
